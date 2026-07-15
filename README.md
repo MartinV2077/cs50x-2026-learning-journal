@@ -44,21 +44,66 @@ I am documenting my progress, challenges, solutions and projects as I develop my
 
 ## 🗂 Repository Structure
 
-```
-.
-├── notes
-│   └── Weekly learning notes
+cs50x-2026-learning-journal
 │
-├── exercises
-│   └── CS50 problem sets and solutions
+├── README.md
 │
-├── projects
-│   └── Personal projects inspired by CS50
+├── assets/
+│   ├── images/
+│   └── diagrams/
 │
-└── final-project
-    └── Final CS50 project
-```
-
+├── notes/
+│   ├── week0.md
+│   ├── week1.md
+│   ├── week2.md
+│   ├── week3.md
+│   ├── week4.md
+│   ├── week5.md
+│   ├── week6.md
+│   ├── week7.md
+│   ├── week8.md
+│   ├── week9.md
+│   └── week10.md
+│
+├── problem-sets/
+│
+│   ├── week0-scratch/
+│   │
+│   ├── week1-c/
+│   │
+│   ├── week2-arrays/
+│   │
+│   ├── week3-algorithms/
+│   │
+│   ├── week4-memory/
+│   │
+│   ├── week5-data-structures/
+│   │
+│   ├── week6-python/
+│   │
+│   ├── week7-sql/
+│   │
+│   ├── week8-html-css-js/
+│   │
+│   ├── week9-flask/
+│   │
+│   └── final-project/
+│
+├── cheatsheets/
+│
+│   ├── git.md
+│   ├── c.md
+│   ├── python.md
+│   ├── sql.md
+│   └── linux.md
+│
+├── resources/
+│
+│   ├── books.md
+│   ├── videos.md
+│   └── links.md
+│
+└── LICENSE
 ---
 
 ## 🧠 Learning Journal
